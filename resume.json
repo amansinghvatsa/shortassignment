@@ -1,0 +1,91 @@
+{
+    "name": "Aman Singh Vatsa",
+    "location": "Sultanpur, Uttar Pradesh 228001",
+    "contact": {
+        "phone": "7703007698",
+        "email": "amansinghvatsa04@gmail.com",
+        "linkedin": "linkedin.com/in/amansinghvatsa",
+        "github": "github.com/amansinghvatsa/"
+    },
+    "internship": {
+        "company": "Cipher School",
+        "duration": "June 2023 - July 2023",
+        "title": "Dsa Training",
+        "description": [
+            "Gained in-depth knowledge of Data Structures and Algorithms, including their practical applications and optimization techniques.",
+            "Developed skills in designing efficient algorithms for problem-solving and coding challenges.",
+            "Proficient in using various data structures such as arrays, linked lists, stacks, queues, trees, graphs, and hash tables.",
+            "Learned to analyze and optimize the time and space complexity of algorithms.",
+            "Worked effectively in team settings, contributing to group projects and participating in peer code reviews.",
+            "Improved communication, time management, and analytical thinking skills through regular group discussions and presentations.",
+            "Completed multiple projects involving real-world scenarios and applied learned concepts to develop efficient solutions."
+        ]
+    },
+    "projects": [
+        {
+            "name": "Twitter- Social Media Platform",
+            "technologies": ["React Js", "Express Js", "MongoDB"],
+            "duration": "July 2023 - Aug 2022",
+            "description": [
+                "Developed a full-featured Twitter clone with the MERN stack, including user authentication and real-time updates.",
+                "Implemented RESTful APIs with Node.js and Express.js for efficient handling of user data, posts, likes, and comments.",
+                "Developed front-end components using React, ensuring a dynamic and interactive user experience.",
+                "GitHub Repository Link: https://github.com/amansinghvatsa/Twitter"
+            ]
+        },
+        {
+            "name": "AI Rudra Chatbot",
+            "technologies": ["Html", "CSS", "JavaScript"],
+            "duration": "Feb 2023 - March 2023",
+            "description": [
+                "Built a React JS AI chatbot which can respond to our prompt.",
+                "It is capable of writing code and fixing error codes.",
+                "It fetches the response from Gemini-Pro.",
+                "GitHub Repository Link: https://github.com/amansinghvatsa/chat_bot"
+            ]
+        }
+    ],
+    "certificates": [
+        {
+            "name": ".Net Web",
+            "date": "Feb 2024",
+            "issuer": "Coursera",
+            "link": "https://coursera.org/verify/AHFNTA86LC39"
+        },
+        {
+            "name": "Data, Data, Everywhere",
+            "date": "Oct 2023",
+            "issuer": "Coursera",
+            "link": "https://coursera.org/share/a87f8f89d03e383e98b29bbb78fb6769"
+        }
+    ],
+    "technical_skills": {
+        "languages": ["C++", "R", "JavaScript"],
+        "technologies_frameworks": [".Net", "React JS", "Node JS", "Git", "GitHub", "Ubuntu"],
+        "skills": ["Data Structures and Algorithms", "Problem-Solving", "Responsive Web Design"]
+    },
+    "education": [
+        {
+            "institution": "Lovely Professional University",
+            "duration": "2021 – 2025",
+            "degree": "Computer Science and Engineering",
+            "cgpa": 6.91,
+            "location": "Jalandhar, Punjab"
+        },
+        {
+            "institution": "Lady Anusuya Singhania Educational Academy",
+            "duration": "2020 – 2021",
+            "degree": "12th with Science",
+            "percentage": 69.77,
+            "location": "Jhalawar, Rajasthan"
+        },
+        {
+            "institution": "St Xavier’s Sr Sec High School",
+            "duration": "2018 – 2019",
+            "degree": "10th with Science",
+            "cgpa": 75,
+            "location": "Sultanpur, Uttar Pradesh"
+        }
+    ]
+}
+``` &#8203;:citation[oaicite:0]{index=0}&#8203;
